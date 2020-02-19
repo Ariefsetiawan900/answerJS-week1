@@ -5,4 +5,4 @@ function treeHeight(height, year) {
     return console.log("Tree's height: ", height);
   }
   
-  treeHeight(3, 1);n
+  treeHeight(3, 1);
